@@ -20,6 +20,7 @@
 ## 项目使用
 1. Vite + Vue3
 2. Typescript
+3. Sass
 
 ## 贡献
 如果你有任何改进意见或功能添加的，因为作者比较懒所以欢迎Fork项目自行更改添加。
@@ -54,6 +55,7 @@ The project is strictly educational and strives to replicate the classic interfa
 ## Project Stack
 1. Vite + Vue3
 2. TypeScript
+3. Sass
 
 ## Contribution
 If you have any suggestions for improvements or additional features, as the author is quite lazy, feel free to Fork this project and make your own changes and additions.
