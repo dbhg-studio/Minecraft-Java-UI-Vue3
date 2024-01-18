@@ -26,7 +26,7 @@
 如果你有任何改进意见或功能添加的，因为作者比较懒所以欢迎Fork项目自行更改添加。
 
 ## 免责声明
-版权归 Minecraft 所有，本项目仅供学习使用，请按照 Minecraft官方 的商用许可决定，欢迎提交修改的代码。
+版权归 Minecraft 所有，本项目仅供学习使用，商用请按照 Minecraft官方 的商用许可来决定。
 
 ## 开源协议
 [MIT license](./LICENSE)
@@ -61,7 +61,7 @@ The project is strictly educational and strives to replicate the classic interfa
 If you have any suggestions for improvements or additional features, as the author is quite lazy, feel free to Fork this project and make your own changes and additions.
 
 ## Disclaimer
-Copyright belongs to Minecraft. This project is solely for educational purposes and should comply with the commercial licensing decisions of the official Minecraft authorities. Contributions and code modifications are welcome.
+The copyright belongs to Minecraft. This project is for learning purposes only. For commercial use, please follow the official Minecraft commercial license.
 
 ## License
 [MIT license](./LICENSE)
