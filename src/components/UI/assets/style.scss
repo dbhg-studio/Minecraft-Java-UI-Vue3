@@ -1,0 +1,65 @@
+@font-face {
+    font-family: "Minecraft";
+    src: url("./Minecraft_Regular.otf");
+}
+
+@font-face {
+    font-family: "Minecraft";
+    font-style: italic;
+    src: url("./Minecraft_Italic.otf");
+}
+
+@font-face {
+    font-family: "Minecraft";
+    font-weight: bold;
+    src: url("./Minecraft_Bold.otf");
+}
+
+@font-face {
+    font-family: "Minecraft";
+    font-weight: bold;
+    font-style: italic;
+    src: url("./Minecraft_BoldItalic.otf");
+}
+
+@font-face {
+    font-family: "Minecraft_New";
+    font-weight: bold;
+    font-style: italic;
+    src: url("./unifont-15.0.01.ttf");
+}
+
+* {
+    -webkit-font-smoothing: antialiased; /* Chrome, Safari */
+    -moz-osx-font-smoothing: grayscale; /* Firefox */
+    margin: 0;
+    padding: 0;
+    font-family: "Minecraft_New" !important;
+}
+
+body {
+    -webkit-font-smoothing: antialiased; /* Chrome, Safari */
+    -moz-osx-font-smoothing: grayscale; /* Firefox */
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 2),
+    only screen and (min--moz-device-pixel-ratio: 2),
+    only screen and (-o-min-device-pixel-ratio: 2/1),
+    only screen and (min-device-pixel-ratio: 2),
+    only screen and (min-resolution: 192dpi),
+    only screen and (min-resolution: 2dppx) {
+    /* 设置高DPR屏幕的字体样式 */
+    body {
+        font-size: 16px;
+    }
+}
+
+@keyframes blink {
+    from,
+    to {
+        border-color: transparent;
+    }
+    50% {
+        border-color: black;
+    }
+}
