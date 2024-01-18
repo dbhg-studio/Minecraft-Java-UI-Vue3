@@ -12,7 +12,7 @@
 - 能方便的使用
 
 ## 如何使用
-1. `git clone https://gitee.com/alwolf/Minecraft_Java_UI-Vue3.git`
+1. `git clone https://github.com/dbhg-studio/Minecraft-Java-UI-Vue3.git`
 2. `npm install | yarn `
 3. `npm run dev | yarn dev`
 4. 打开浏览器，访问 `http://localhost:5173/` 查看项目
@@ -46,7 +46,7 @@ The project is strictly educational and strives to replicate the classic interfa
 - Designed for easy use
 
 ## How to Use
-1. `git clone https://gitee.com/alwolf/Minecraft_Java_UI-Vue3.git`
+1. `git clone https://github.com/dbhg-studio/Minecraft-Java-UI-Vue3.git`
 2. `npm install | yarn `
 3. `npm run dev | yarn dev`
 4. Open your browser and visit `http://localhost:5173/` to view the project
