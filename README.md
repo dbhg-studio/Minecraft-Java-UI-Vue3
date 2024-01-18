@@ -30,6 +30,8 @@
 ## 开源协议
 [MIT license](./LICENSE)
 
+--- 
+
 # Minecraft Java UI - Vue3
 
 <center><img src="https://img.cdn.tencent-qq.cn/Yize/2023/05/7afe564f3ae6ba2f.png"></center>
